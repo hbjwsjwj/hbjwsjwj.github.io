@@ -1,0 +1,16 @@
+{
+	"name": "Creative",
+	"URI": "http://jasonxiang.com",
+	"description": "A creative front-end web developer.",
+	"author": "Jason <arvinxiang@qq.com>",
+	"authorURI": "http://jasonxiang.com",
+	"version": "1.0.0",
+	"devDependencies": {
+		"grunt": "~0.4.2",
+		"grunt-contrib-cssmin": "~0.7.0",
+		"grunt-contrib-uglify": "~0.3.0",
+		"grunt-contrib-less": "~0.11.0",
+		"grunt-contrib-copy": "~0.5.0",
+		"grunt-contrib-watch": "~0.5.3"
+	}
+}
